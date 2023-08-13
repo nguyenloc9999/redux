@@ -1,0 +1,10 @@
+.css-container{
+  
+    min-height: 180vh;
+  }
+.css-footer {
+   
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem; 
+  }

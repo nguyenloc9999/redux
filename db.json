@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "name": "Licensed Plastic Bike",
+      "price": "223.00",
+      "image": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "id": 56
+    },
+    {
+      "name": "Ergonomic Plastic Bike",
+      "price": "883.00",
+      "image": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "id": 57
+    },
+    {
+      "name": "Sleek Granite Pizza",
+      "price": "652.00",
+      "image": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "id": 59
+    },
+    {
+      "name": "Practical Metal Tuna",
+      "price": "851.00",
+      "image": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "id": 60
+    },
+    {
+      "name": "Gorgeous Soft Shirt",
+      "price": "344.00",
+      "image": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "id": 61
+    },
+    {
+      "name": "Intelligent Frozen Fish",
+      "price": "264.00",
+      "image": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "id": 62
+    }
+  ]
+}
